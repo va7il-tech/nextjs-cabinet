@@ -10,7 +10,7 @@ import { usePathname } from 'next/navigation';
 import clsx from 'clsx';
 
 
-// Map of links to display in the side navigation.
+// Map of links to display in the side navigation. dcmscm,mc,zm zx  xz zx 
 // Depending on the size of the application, this would be stored in a database.
 const links = [
   { name: 'Home', href: '/dashboard', icon: HomeIcon },
